@@ -29,7 +29,7 @@
                     <select name="department">
                         <option value="開発部" checked>開発部</option>
                         <option value="営業部">営業部</option>
-                        <option value="その他">人事部</option>
+                        <option value="人事部">人事部</option>
                     </select>
                 </td>
             </tr>
